@@ -41,7 +41,7 @@ pip install numpy matplotlib scikit-learn
 1.  Clone the repository:
 
     ``` bash
-    git clone https://github.com/your-username/FashionMNIST-Clustering.git
+    git clone https://github.com/shahin-ro/FashionMNIST-Clustering.git
     ```
 
 2.  Navigate to the project directory:
